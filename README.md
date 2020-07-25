@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <head>
 	<title>My Profile</title>
 	<style type="text/css">
@@ -36,4 +35,4 @@
 </table>
 </center>
 </body>
-</html>
+
