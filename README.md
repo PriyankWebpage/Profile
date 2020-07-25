@@ -1,6 +1,6 @@
 
 <head>
-	<title>My Profile</title>
+	
 	<style type="text/css">
 		td{
 			padding: 10px
