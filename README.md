@@ -13,7 +13,7 @@
 <center>
 <table style="margin-left: 200px;padding: 50px;">
 
-<tr><td><b>Name:</b></td><td> <i style="margin-left: 100px">M Sravani Lakshmi</td></i></tr>
+<tr><td><b>Name:</b></td><td> <i style="margin-left: 100px">M Sravani Lakshmi</i></td></tr>
 
 <tr><td><b>Father's Name:</b></td><td><i style="margin-left: 100px">M Venkata Divikar</i></td></tr>
 
