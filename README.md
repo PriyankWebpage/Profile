@@ -1,4 +1,4 @@
-
+<html>
 <head>
 	
 	<style type="text/css">
@@ -23,10 +23,6 @@
 
 <tr><td><b>Education Qualification:</b></td><td><i style="margin-left: 100px">B.tech 2nd year</i></td></tr>
 
-
-
-
-
 <tr><td><b>Languages Known:</b></td><td><i style="margin-left: 100px">Telugu/English/Hindi</i></td></tr>
 <tr><td><b>Hobbies:</b></td><td><i style="margin-left: 100px">Reading Books,Collecting Old Coins and Stamps,Painting</i></td></tr>
 <tr><td><b>Extracurricular Activities:</b></td><td><i style="margin-left: 100px">Singing,Basketball</i></td></tr>
@@ -35,4 +31,4 @@
 </table>
 </center>
 </body>
-
+</html>
